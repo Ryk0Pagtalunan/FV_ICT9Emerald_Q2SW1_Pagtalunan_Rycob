@@ -1,0 +1,31 @@
+.container1{
+background-color: #f5bcbc;
+text-align: center;
+}
+
+.container2{
+	background-color: #eff5bc;
+	width: 387px;
+	padding: 15px;
+	border: 4px dotted #bcdaf5;
+	box-shadow: 2px 2px 15px rgb(0,0,0, 1.2);
+	margin: auto;
+}
+
+body{
+	background-image: url(https://img.freepik.com/free-vector/watercolor-rainbow-background-design_23-2149573234.jpg?size=626&ext=jpg&ga=GA1.1.2008272138.1726012800&semt=ais_hybrid);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+label{
+	font-style: italic;
+	font-weight: bold;
+}
+#submit{
+	background-color: #a3e4e6;
+	color: black;
+	border-radius: 15px;
+	font-size: 20px;
+}
